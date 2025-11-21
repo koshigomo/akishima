@@ -3,3 +3,4 @@ hello
 good night
 good mornig
 hiroki tominaga
+こんにちは
